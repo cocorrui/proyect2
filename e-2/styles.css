@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2? family= Indie+Flower & family= Koulen & family= Roboto+Slab & display=swap');
+
+body{
+    margin: 0;
+    background-color:rgb(6, 240, 189);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color:gray;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+.logo img{
+    height: 50%;
+    margin-right: 10px;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
